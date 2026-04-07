@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Learning Full Stack Development (MERN)<br> Long Game:  intelligent system that solves real world problems using Ai.<br> Intersts: Building Projects  .<br>Curious Developer<br>A busy engineering undergrad in Kerala, juggling with classes, leetcode and development<br>
+Currently Learning ML<br> Long Game:  intelligent system that solves real world problems using Ai.<br> Intersts: Building Projects
 
 
 ## 🌐 Socials:
