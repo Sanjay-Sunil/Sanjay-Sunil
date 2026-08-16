@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Learning ML<br> Long Game:  intelligent system that solves real world problems using Ai.<br> Intersts: Building Projects
+Love to tweak with ML, DL and agentic stuff 
 
 
 ## 🌐 Socials:
