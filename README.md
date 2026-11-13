@@ -50,7 +50,8 @@ flowchart LR
 
 #### `❯ groups`
 
-[`feynixsoln`](https://github.com/feynixsoln-in) · [`chai-coders`](https://github.com/Chai-Coders)
+<a href="https://github.com/feynixsoln-in"><img src="https://github.com/feynixsoln-in.png?size=80" width="40" height="40" alt="feynixsoln"/></a>&nbsp;
+<a href="https://github.com/Chai-Coders"><img src="https://github.com/Chai-Coders.png?size=80" width="40" height="40" alt="chai-coders"/></a>
 
 #### `❯ ping sanjay`
 
