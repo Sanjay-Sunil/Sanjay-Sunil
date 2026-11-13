@@ -23,7 +23,7 @@ ai & data science student at iiit kottayam. i do **edge ai**: shrinking models u
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1b26','primaryTextColor':'#c0caf5','primaryBorderColor':'#7aa2f7','lineColor':'#bb9af7','fontFamily':'monospace'}}}%%
 flowchart LR
-    A["🧑‍💼 admin<br/><i>add our new startup</i>"] --> B["🤖 ai assistant<br/>drafts the edit"]
+    A["🧑‍💼 admin<br/>'add our new startup'"] --> B["🤖 ai assistant<br/>drafts the edit"]
     M["🔌 any ai app<br/>over mcp"] --> B
     B --> C["🔍 review agent<br/>double-checks it"]
     C --> D["👀 preview on<br/>the real site"]
@@ -38,7 +38,7 @@ flowchart LR
 | | | |
 |---|---|---|
 | 🗣️ | [**`bolo/`**](https://github.com/Sanjay-Sunil/Bolo) | a voice assistant that gets hinglish. speech-to-text and voice run on the phone, and it replies in ~2s. [apk](https://github.com/Sanjay-Sunil/Bolo/releases/latest) |
-| 🇮🇳 | [**`itantra-stt/`**](https://github.com/Sanjay-Sunil/itantra-stt) | speech-to-text for 10 indian languages, even when you switch mid-sentence. no internet needed. [try it in your browser](https://huggingface.co/spaces/zxnjxd/itantra-stt-browser) |
+| 🎧 | [**`itantra-stt/`**](https://github.com/Sanjay-Sunil/itantra-stt) | speech-to-text for 10 indian languages, even when you switch mid-sentence. no internet needed. [try it in your browser](https://huggingface.co/spaces/zxnjxd/itantra-stt-browser) |
 | 🎙️ | [**`hinglish-tts/`**](https://github.com/Sanjay-Sunil/finetuned-tts) | taught an english tts model to speak hinglish. [before vs after](https://huggingface.co/spaces/zxnjxd/hinglish-pocket-tts) (the before is funny) |
 | 🩺 | **`otoscope-edge/`** | reads otoscope (ear) images: 5 efficientnets voting, 98.5% macro f1, running on a raspberry pi |
 | 📲 | [**`autopilot/`**](https://github.com/Sanjay-Sunil/AutoPilot) | text your laptop from your phone and an agent does the thing. encrypted, with a kill switch just in case |
@@ -55,10 +55,10 @@ flowchart LR
 
 #### `❯ ping sanjay`
 
-<a href="mailto:officiallysanjaysunil@gmail.com"><img src="https://img.shields.io/badge/mail-1a1b26?style=for-the-badge&logo=gmail&logoColor=9ece6a"/></a>
-<a href="https://linkedin.com/in/sanjay25sunil"><img src="https://img.shields.io/badge/linkedin-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/></a>
-<a href="https://instagram.com/sxnjxy.s"><img src="https://img.shields.io/badge/instagram-1a1b26?style=for-the-badge&logo=instagram&logoColor=bb9af7"/></a>
-<a href="https://huggingface.co/zxnjxd"><img src="https://img.shields.io/badge/hugging_face-1a1b26?style=for-the-badge&logo=huggingface&logoColor=e0af68"/></a>
+<a href="mailto:officiallysanjaysunil@gmail.com"><img src="https://img.shields.io/badge/mail-1a1b26?style=for-the-badge&logo=gmail&logoColor=9ece6a" alt="mail"/></a>
+<a href="https://linkedin.com/in/sanjay25sunil"><img src="https://img.shields.io/badge/linkedin-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="linkedin"/></a>
+<a href="https://instagram.com/sxnjxy.s"><img src="https://img.shields.io/badge/instagram-1a1b26?style=for-the-badge&logo=instagram&logoColor=bb9af7" alt="instagram"/></a>
+<a href="https://huggingface.co/zxnjxd"><img src="https://img.shields.io/badge/hugging_face-1a1b26?style=for-the-badge&logo=huggingface&logoColor=e0af68" alt="hugging face"/></a>
 
 <br/>
 
